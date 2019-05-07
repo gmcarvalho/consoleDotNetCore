@@ -1,1 +1,5 @@
-# consoleDotNetCore
+## Exemplo de console .Net Core
+
+#### Exemplo de Interface para Jogadores de futebol
+#### Criação de classlib
+#### Criação de sln e referencias
